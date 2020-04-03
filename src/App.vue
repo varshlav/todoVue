@@ -73,6 +73,7 @@ body{
   width:800px;
   margin: 10px auto;
   border: 1px solid #000;
+  background-color: #ccc;
 }
 .header{
   background:#333;
